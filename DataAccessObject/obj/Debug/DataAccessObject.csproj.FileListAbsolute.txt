@@ -1,0 +1,5 @@
+C:\Code\TestProject\connectionDemo\DataAccessObject\bin\Debug\DataAccessObject.dll
+C:\Code\TestProject\connectionDemo\DataAccessObject\bin\Debug\DataAccessObject.pdb
+C:\Code\TestProject\connectionDemo\DataAccessObject\obj\Debug\DataAccessObject.csprojResolveAssemblyReference.cache
+C:\Code\TestProject\connectionDemo\DataAccessObject\obj\Debug\DataAccessObject.dll
+C:\Code\TestProject\connectionDemo\DataAccessObject\obj\Debug\DataAccessObject.pdb
